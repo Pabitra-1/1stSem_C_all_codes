@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+
 #include <stdio.h>
 
 int main() {
@@ -29,15 +29,15 @@ int main() {
 //   }
 //   if(num>=11 && num<=19){
 //       int h = num/100;
-//       if(num==11) printf("One Eleven");
-//       else if(num==12) printf("One Twelve");
-//       else if(num==13) printf("One Thirteen");
-//       else if(num==14) printf("One Fourteen");
-//       else if(num==15) printf("One Fifteen");
-//       else if(num==16) printf("One Sixteen");
-//       else if(num==17) printf("One Seventeen");
-//       else if(num==18) printf("One Eightteen");
-//       else if(num==19) printf("One Nineteen");
+//       if(num==11) printf(" Eleven");
+//       else if(num==12) printf(" Twelve");
+//       else if(num==13) printf(" Thirteen");
+//       else if(num==14) printf(" Fourteen");
+//       else if(num==15) printf(" Fifteen");
+//       else if(num==16) printf(" Sixteen");
+//       else if(num==17) printf(" Seventeen");
+//       else if(num==18) printf(" Eightteen");
+//       else if(num==19) printf(" Nineteen");
   
     
       
@@ -45,14 +45,14 @@ int main() {
 //   else {
 //       if(num>=20){
 //       int h = num/10;
-//         if(h==2) printf("One Twinty");
-//       else if(h==3) printf("One Thirty");
-//       else if(h==4) printf("One Fourty");
-//       else if(h==5) printf("One Fifty");
-//       else if(h==6) printf("One Sixty");
-//       else if(h==7) printf("One Seventy");
-//       else if(h==8) printf("One Eighty");
-//       else if(h==9) printf("One Ninety");
+//         if(h==2) printf(" Twinty");
+//       else if(h==3) printf(" Thirty");
+//       else if(h==4) printf(" Fourty");
+//       else if(h==5) printf(" Fifty");
+//       else if(h==6) printf(" Sixty");
+//       else if(h==7) printf(" Seventy");
+//       else if(h==8) printf(" Eighty");
+//       else if(h==9) printf(" Ninety");
   
     
       
