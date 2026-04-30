@@ -1,6 +1,6 @@
 # All codes of c 
 
-
+<br>
 Day 1 : {
         1. Add Two numbers
         2. Area of triangle
@@ -8,6 +8,7 @@ Day 1 : {
         4. Salary of employe
         5. Temperature find
         }
+        <br>
 Day 2 : {
         1. Maximum of 3 numbers
         2. Simple Calculator
@@ -16,6 +17,7 @@ Day 2 : {
         5. Even or odd
         6. Grade of student
 }
+<br>
 Day 3 : {
       1. Armstrong number 
       2. Factorial on number
@@ -23,6 +25,7 @@ Day 3 : {
       4. Root of equation 
       5. Pattern
 }
+<br>
 Day 4 : {
       1.Armstrong Number
       2.GCD 
