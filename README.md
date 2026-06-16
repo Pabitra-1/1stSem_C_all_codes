@@ -1,4 +1,4 @@
-# All codes of c 
+# All codes of c from array to files
 
 <br>
 Day 1 : {
