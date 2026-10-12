@@ -1,7 +1,7 @@
 # All codes of 'C' from array to files
 
 <br>
-Day 1 : {
+Day 1 :  {
         1. Add Two numbers
         2. Area of triangle
         3. Percentage of numbers
